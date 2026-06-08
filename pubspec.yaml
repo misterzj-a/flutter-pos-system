@@ -33,7 +33,7 @@ dependencies:
   http: ^1.5.0
   packages:
     git:
-      url: https://github.com/evan361425/flutter-pos-packages-mock
+      url: https://github.com/misterzj-a/flutter-pos-packages-mock
       ref: master
 
   # google services
